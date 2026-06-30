@@ -1,6 +1,6 @@
-## Hey, I'm Fidel 👍
+## Hey, I'm Fidel Cedric 👍
 
-I build things for the web and rice my Arch setup.
+I build things for the web and rice  Arch setups.
 
 - 📳 Portfolio: polymerthcedric.github.io/portfolio
 - 💻
