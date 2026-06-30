@@ -5,15 +5,13 @@ I build things for the web and rice my Arch setup.
 - 📳 Portfolio: polymerthcedric.github.io/portfolio
 - 💻
  LinkedIn: linkedin.com/in/fidel-odoyo
-- 💺
- Bitika: bitika.co.ke
 
 ### What I work with
 
 **Frontend** — React, Next.js, Angular, Vue.js, TypeScript, Tailwind CSS, Framer Motion, Zastand
 **Backend** — Django REST, Node.js, Python
 **Mobile** — React Native, Flutter
-**Database** — MySQL, PostgreSQL
+**Database** — MySQL, PostgreSQL  
 **Tools** — Neovim, Tmux, Zsh, Docker, Git, Figma
 **AI/LM** — Claude AI, LangGraph, RAG architectures
 **Payments** — M-Pesa API
