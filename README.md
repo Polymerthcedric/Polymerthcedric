@@ -1,10 +1,9 @@
 ## Hey, I'm Fidel Cedric 👍
 
-I build things for the web and rice  Arch setups.
+I build things for the web and rice Arch setups.
 
 - 📳 Portfolio: polymerthcedric.github.io/portfolio
-- 💻
- LinkedIn: linkedin.com/in/fidel-odoyo
+- 💻 LinkedIn: linkedin.com/in/fidel-odoyo
 
 ### What I work with
 
@@ -21,5 +20,7 @@ I build things for the web and rice  Arch setups.
 
 - [*_BankUi*](https://github.com/Polymerthcedric/bankui) — High-fidelity mobile banking demo with FaceID, multi-currency, and M-Pesa simulation (Next.js 16 + React 19)
 - [*_Medimart*](https://github.com/Polymerthcedric/Medimart) — Medical supplies e-commerce with M-Pesa payments and AI chatbot (React + Django REST)
-- [*_Dotfiles*](https://github.com/Polymerthcedric/dotfiles) — Arch rice config (HYprland, Waybar, Neovim, Kitty, Starship)
-- [*_Portfolio*](https://github.com/Polymerthcedric/portfolio) — Personal website built with Next.js 14 + Tailwind CSS (Catpuccin Mocha)
+- [*_SawaPro*](https://github.com/fidelcedric/sawapro-landing-page) — Premium auto repair landing page (HTML + Tailwind CSS)
+- [*_ArtVision*](https://github.com/fidelcedric/artvision) — Art gallery with C/WebAssembly image filters (HTML + WASM)
+- [*_Dotfiles*](https://github.com/Polymerthcedric/dotfiles) — Arch rice config (Hyprland, Waybar, Neovim, Kitty, Starship)
+- [*_Portfolio*](https://github.com/Polymerthcedric/portfolio) — Personal website (Next.js + Tailwind CSS + Framer Motion)
