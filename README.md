@@ -7,6 +7,7 @@ I build full-stack applications, trade algorithms, and rice Arch setups.
 - 📫 **Reach me at:** fidelcedricodoyo@gmail.com
 - 📳 **Portfolio:** polymerthcedric.github.io/portfolio
 - 💻 **LinkedIn:** linkedin.com/in/fidel-odoyo
+- 👤 **Alt account:** [github.com/fidelcedric](https://github.com/fidelcedric) — DevOps, WASM, landing pages
 
 ### What I work with
 
@@ -24,7 +25,7 @@ I build full-stack applications, trade algorithms, and rice Arch setups.
 - [*_BankUi*](https://github.com/Polymerthcedric/bankui) — High-fidelity mobile banking demo with FaceID, multi-currency, M-Pesa simulation (Next.js 16 + React 19)
 - [*_Medimart*](https://github.com/Polymerthcedric/Medimart) — Medical supplies e-commerce with M-Pesa payments and AI chatbot (React + Flask)
 - [*_Multi-Agent Trading*](https://github.com/Polymerthcedric/multi-agent-trading) — Autonomous trading system with MCTS look-ahead, 4-agent consensus, risk guardrails (Python)
-- [*_ArtVision*](https://github.com/fidelcedric/artvision) — Art gallery with C/WebAssembly image filters (HTML + WASM)
-- [*_SawaPro*](https://github.com/fidelcedric/sawapro-landing-page) — Premium auto repair landing page (Tailwind CSS + Vanilla JS)
+- [*_ArtVision*](https://github.com/fidelcedric/artvision) — Art gallery with C/WebAssembly image filters, Rosé Pine theme (HTML + WASM) — *fidelcedric*
+- [*_SawaPro*](https://github.com/fidelcedric/sawapro-landing-page) — Premium auto repair landing page (Tailwind CSS + Vanilla JS) — *fidelcedric*
 - [*_Dotfiles*](https://github.com/Polymerthcedric/dotfiles) — Arch Linux rice (Hyprland, Waybar, Neovim, Kitty, Starship)
 - [*_Portfolio*](https://github.com/Polymerthcedric/portfolio) — Personal website (Next.js + Tailwind CSS + Framer Motion)
