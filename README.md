@@ -1,6 +1,6 @@
 ## Hey, I'm Fidel Cedric 👍
 
-I am an agentic engineer and writer. I build highly leveraged digital assets, design autonomous systems, and write about the engineering process.
+I build software with a stance. I am an agentic engineer and writer focused on conceptual compression and highly leveraged digital assets. I reject the bloated, over-architected modern development cycles in favor of autonomous systems that actually deliver. I write about the engineering process, the beauty of minimal constraints, and the mechanics of turning code into leverage.
 
 - Portfolio: [polymerthcedric.github.io/portfolio](https://polymerthcedric.github.io/portfolio)
 - LinkedIn: [linkedin.com/in/fidel-odoyo](https://linkedin.com/in/fidel-odoyo)
