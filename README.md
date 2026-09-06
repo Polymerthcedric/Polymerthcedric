@@ -1,6 +1,6 @@
 ## Hey, I'm Fidel Cedric 👍
 
-I build things for the web and rice Arch setups.
+I am an agentic engineer and writer. I build highly leveraged digital assets, design autonomous systems, and write about the engineering process.
 
 - Portfolio: [polymerthcedric.github.io/portfolio](https://polymerthcedric.github.io/portfolio)
 - LinkedIn: [linkedin.com/in/fidel-odoyo](https://linkedin.com/in/fidel-odoyo)
