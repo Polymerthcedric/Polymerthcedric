@@ -1,31 +1,28 @@
-## Hey, I'm Fidel Cedric 👍
+# Hey, I’m Fidel Cedric
 
-I build software with a stance. I am an agentic engineer and writer focused on conceptual compression and highly leveraged digital assets. I reject the bloated, over-architected modern development cycles in favor of autonomous systems that actually deliver. I write about the engineering process, the beauty of minimal constraints, and the mechanics of turning code into leverage.
+I’m a software developer in Nairobi. I build web apps and small developer tools, mostly with TypeScript, React, Next.js, Node.js, and Python. I like keeping projects understandable and being clear about what is a demo and what is ready for real use.
 
-- Portfolio: [polymerthcedric.github.io/portfolio](https://polymerthcedric.github.io/portfolio)
-- LinkedIn: [linkedin.com/in/fidel-odoyo](https://linkedin.com/in/fidel-odoyo)
-- Email: fidelcedricodoyo@gmail.com
+- [Portfolio](https://fidelco.dev/)
+- [LinkedIn](https://linkedin.com/in/fidel-odoyo)
+- [Email](mailto:fidelcedricodoyo@gmail.com)
 
-### What I work with
+## What I use
 
-Frontend -- React, Next.js, Angular, Vue.js, TypeScript, Tailwind CSS, Framer Motion, Zustand
-Backend -- Django REST, Flask, Node.js, Python
-Mobile -- React Native, Flutter
-Database -- MySQL, PostgreSQL
-Tools -- Neovim, Tmux, Zsh, Docker, Git, Figma
-AI/LM -- Claude AI, LangGraph, RAG architectures
-Payments -- M-Pesa API
-Linux -- Arch, Hyprland, Waybar, Kitty
+- **Web:** React, Next.js, TypeScript, Vue, Angular, Tailwind CSS
+- **Backend:** Node.js, Python, Flask, Django REST
+- **Data:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, Neovim, Tmux, Zsh, Figma
+- **Learning and exploring:** AWS, LangGraph, retrieval-augmented generation
+- **Other projects:** React Native, Flutter, M-Pesa API, Arch Linux, Hyprland
 
-### Projects
+## Projects
 
-- Atélier (https://github.com/Polymerthcedric/atelier-com) -- Editorial brand site for a Nairobi furniture craftsmanship studio (HTML + CSS)
-- Multi-Agent Trading (https://github.com/Polymerthcedric/multi-agent-trading) -- Autonomous trading system with MCTS look-ahead, 6-agent consensus, and self-learning feedback (Python)
-- BankUi (https://github.com/Polymerthcedric/bankui) -- High-fidelity mobile banking demo with FaceID, multi-currency, and M-Pesa simulation (Next.js 16 + React 19)
-- Medimart (https://github.com/Polymerthcedric/Medimart) -- Medical supplies e-commerce with M-Pesa payments and AI chatbot (React + Flask REST API)
-- SawaPro (https://github.com/fidelcedric/sawapro-landing-page) -- Premium auto repair landing page (HTML + Tailwind CSS)
-- ArtVision (https://github.com/fidelcedric/artvision) -- Art gallery with C/WebAssembly image filters (HTML + WASM)
-- Dotfiles (https://github.com/Polymerthcedric/dotfiles) -- Arch rice config (Hyprland, Waybar, Neovim, Kitty, Starship)
-- Portfolio (https://github.com/Polymerthcedric/portfolio) -- Personal website (Next.js + Tailwind CSS + Framer Motion)
+- [DevSecOps Starter](https://github.com/Polymerthcedric/nextjs-devsecops-starter) — a Next.js starter with rate limiting, username/password auth, and deployment examples.
+- [JSON to Zustand](https://github.com/Polymerthcedric/json-zustand-generator) — a free browser tool that generates Zustand store code from JSON.
+- [BankUI](https://github.com/Polymerthcedric/bankui) — a mobile banking interface prototype with simulated account and payment flows.
+- [Medimart](https://github.com/Polymerthcedric/Medimart) — a medical-supplies shop prototype with a React frontend and Flask API.
+- [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for testing trading strategies with MCTS and paper trading.
+- [Atélier](https://github.com/Polymerthcedric/atelier-com) — a static website concept for a furniture and interiors studio.
+- [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my Arch Linux and desktop configuration.
 
-Also on @fidelcedric (https://github.com/fidelcedric) -- ArtVision, SawaPro, system engineering and DevOps.
+I also share learning projects and experiments at [@fidelcedric](https://github.com/fidelcedric).
