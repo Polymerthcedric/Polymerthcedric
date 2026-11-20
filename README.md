@@ -18,6 +18,6 @@ I write plainly about what I build. A prototype stays a prototype. A demo that u
 - [Atélier](https://github.com/Polymerthcedric/atelier-com) — a static website concept for a furniture and interiors studio.
 - [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my old Arch Linux rice, kept as a record. I stopped ricing when it became maintenance instead of fun.
 
-More experiments and learning projects live at [@fidelcedric](https://github.com/fidelcedric).
+My other GitHub account is [@fidelcedric](https://github.com/fidelcedric). That account holds my ALX coursework, the ArtVision gallery concept, and the SawaPro landing page concept.
 
 I keep public docs to a short [writing standard](WRITING.md).
