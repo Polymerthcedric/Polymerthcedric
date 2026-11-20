@@ -17,7 +17,7 @@ I’m a software developer in Nairobi. I build web apps and small developer tool
 
 ## Projects
 
-- [DevSecOps Starter](https://github.com/Polymerthcedric/nextjs-devsecops-starter) — a Next.js starter with rate limiting, username/password auth, and deployment examples.
+- [DevSecOps Starter](https://github.com/Polymerthcedric/nextjs-devsecops-starter) — an open-source Next.js reference architecture with rate limiting, PBKDF2 auth, and a Paddle Sandbox checkout demo ([live](https://starter.fidelco.dev)).
 - [JSON to Zustand](https://github.com/Polymerthcedric/json-zustand-generator) — a free browser tool that generates Zustand store code from JSON.
 - [BankUI](https://github.com/Polymerthcedric/bankui) — a mobile banking interface prototype with simulated account and payment flows.
 - [Medimart](https://github.com/Polymerthcedric/Medimart) — a medical-supplies shop prototype with a React frontend and Flask API.
