@@ -1,6 +1,6 @@
 # Fidel Cedric
 
-I'm a software developer in Nairobi. I build web apps and small developer tools, mostly with TypeScript, React, Next.js, Node.js, and Python.
+I'm a software developer in Nairobi. I build web apps and small developer tools, mostly with TypeScript, React, Next.js, Node.js, and Python. I started on Arch Linux and now run Omarchy 4.5.
 
 I write plainly about what I build. A prototype stays a prototype. A demo that uses a sandbox payment API says so. I call a learning project a learning project.
 
@@ -16,7 +16,7 @@ I write plainly about what I build. A prototype stays a prototype. A demo that u
 - [Medimart](https://github.com/Polymerthcedric/Medimart) — a storefront prototype with a small Flask API. The payment flow uses the M-Pesa sandbox, and the chat helper replies from a fixed script.
 - [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for testing trading ideas with MCTS and paper trading. It does not place live orders.
 - [Atélier](https://github.com/Polymerthcedric/atelier-com) — a static website concept for a furniture and interiors studio.
-- [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my Arch Linux configuration. I run Omarchy now, with Catppuccin Mocha Blue and OpenCode. I stopped ricing when it became maintenance instead of fun.
+- [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my old Arch Linux rice, kept as a record. I stopped ricing when it became maintenance instead of fun.
 
 More experiments and learning projects live at [@fidelcedric](https://github.com/fidelcedric).
 
