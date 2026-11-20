@@ -19,3 +19,5 @@ I write plainly about what I build. A prototype stays a prototype. A demo that u
 - [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my Arch Linux configuration. I run Omarchy now, with Catppuccin Mocha Blue and OpenCode. I stopped ricing when it became maintenance instead of fun.
 
 More experiments and learning projects live at [@fidelcedric](https://github.com/fidelcedric).
+
+I keep public docs to a short [writing standard](WRITING.md).
