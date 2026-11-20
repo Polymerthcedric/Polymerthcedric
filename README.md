@@ -1,28 +1,21 @@
-# Hey, I’m Fidel Cedric
+# Fidel Cedric
 
-I’m a software developer in Nairobi. I build web apps and small developer tools, mostly with TypeScript, React, Next.js, Node.js, and Python. I like keeping projects understandable and being clear about what is a demo and what is ready for real use.
+I'm a software developer in Nairobi. I build web apps and small developer tools, mostly with TypeScript, React, Next.js, Node.js, and Python.
+
+I try to be plain about what I make. A prototype stays a prototype. A demo that uses a sandbox payment API says so. If something is a learning project, I call it that instead of dressing it up as a product.
 
 - [Portfolio](https://fidelco.dev/)
 - [LinkedIn](https://linkedin.com/in/fidel-odoyo)
 - [Email](mailto:fidelcedricodoyo@gmail.com)
 
-## What I use
+## Work you can look at
 
-- **Web:** React, Next.js, TypeScript, Vue, Angular, Tailwind CSS
-- **Backend:** Node.js, Python, Flask, Django REST
-- **Data:** PostgreSQL, MySQL
-- **Tools:** Git, Docker, Neovim, Tmux, Zsh, Figma
-- **Learning and exploring:** AWS, LangGraph, retrieval-augmented generation
-- **Other projects:** React Native, Flutter, M-Pesa API, Arch Linux, Hyprland
-
-## Projects
-
-- [DevSecOps Starter](https://github.com/Polymerthcedric/nextjs-devsecops-starter) — an open-source Next.js reference architecture with rate limiting, PBKDF2 auth, and a Paddle Sandbox checkout demo ([live](https://starter.fidelco.dev)).
-- [JSON to Zustand](https://github.com/Polymerthcedric/json-zustand-generator) — a free browser tool that generates Zustand store code from JSON.
-- [BankUI](https://github.com/Polymerthcedric/bankui) — a mobile banking interface prototype with simulated account and payment flows.
-- [Medimart](https://github.com/Polymerthcedric/Medimart) — a medical-supplies shop prototype with a React frontend and Flask API.
-- [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for testing trading strategies with MCTS and paper trading.
+- [DevSecOps Starter](https://github.com/Polymerthcedric/nextjs-devsecops-starter) — an open-source Next.js reference architecture with rate limiting, PBKDF2 password hashing, and a Paddle Sandbox checkout demo. [Live site](https://starter.fidelco.dev).
+- [JSON to Zustand](https://github.com/Polymerthcedric/json-zustand-generator) — a browser tool that turns JSON into a typed Zustand store. Nothing is uploaded. [Live site](https://tool.fidelco.dev).
+- [BankUI](https://github.com/Polymerthcedric/bankui) — a mobile banking UI prototype. Sign-in and transfers are simulated; there is no bank behind it.
+- [Medimart](https://github.com/Polymerthcedric/Medimart) — a storefront prototype with a small Flask API. The payment flow uses the M-Pesa sandbox, and the chat helper replies from a fixed script.
+- [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for testing trading ideas with MCTS and paper trading. It does not place live orders.
 - [Atélier](https://github.com/Polymerthcedric/atelier-com) — a static website concept for a furniture and interiors studio.
-- [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my Arch Linux and desktop configuration.
+- [Dotfiles](https://github.com/Polymerthcedric/dotfiles) — my Arch Linux configuration. I run Omarchy now, with Catppuccin Mocha Blue and OpenCode. Ricing was fun until it wasn't.
 
-I also share learning projects and experiments at [@fidelcedric](https://github.com/fidelcedric).
+More experiments and learning projects live at [@fidelcedric](https://github.com/fidelcedric).
