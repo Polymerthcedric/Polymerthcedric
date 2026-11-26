@@ -14,7 +14,7 @@ I write plainly about what I build. A prototype stays a prototype. A demo that u
 - [JSON to Zustand](https://github.com/Polymerthcedric/json-zustand-generator) — a browser tool that turns JSON into a typed Zustand store. Nothing is uploaded. [Live site](https://tool.fidelco.dev).
 - [BankUI](https://github.com/Polymerthcedric/bankui) — a mobile banking UI prototype. Sign-in and transfers are simulated; there is no bank behind it.
 - [Medimart](https://github.com/Polymerthcedric/Medimart) — a storefront prototype with a small Flask API. The payment flow uses the M-Pesa sandbox, and the chat helper replies from a fixed script.
-- [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for testing trading ideas with MCTS and paper trading. It does not place live orders.
+- [Multi-Agent Trading](https://github.com/Polymerthcedric/multi-agent-trading) — research code for multi-agent trading ideas. It uses paper trading only and does not place live orders.
 - [Guardrail](https://github.com/Polymerthcedric/guardrail) — a local-first focus tool for Android 8+ and Linux. Android app selection and schedules are configurable; accessibility, VPN, and background behavior can vary by device.
 - [cifuse](https://github.com/Polymerthcedric/cifuse) — a local linter for GitHub Actions workflows. It checks workflow files; it does not enforce a billing cap.
 - [Atélier](https://github.com/Polymerthcedric/atelier-com) — a static website concept for a furniture and interiors studio.
